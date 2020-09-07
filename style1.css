@@ -1,0 +1,29 @@
+.img{
+    width: 100%;
+    border-radius: 10px;
+}
+body{
+    background-image: url("Images/banner3.jpg");
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+    color: teal;
+}
+p{
+    text-align: center;
+    font-size: 22px;
+}
+.footer{
+    color: white;
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+}
+#link{
+    text-decoration: none;
+    color: wheat;
+}
+    

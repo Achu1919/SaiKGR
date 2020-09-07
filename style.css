@@ -1,0 +1,42 @@
+body{
+    background-image: url("Images/banner3.jpg");
+    height: 100%;
+    width: 100%;
+}
+.para{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 20px;
+    color: wheat;
+
+}
+#h1{
+    text-align: center;
+    color: orangered;
+    margin-top: 5%;
+}
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    border-radius: 30px;
+    
+}
+#link{
+    text-decoration: none;
+    color: white;
+}
+.footer{
+    color: white;
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+}
+#a{
+    text-decoration: none;
+    color: grey;
+}
